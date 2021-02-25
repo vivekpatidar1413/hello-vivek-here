@@ -1,3 +1,6 @@
-# Logistic regression
+Linear-Regression
+# Linear Regression
 
-this is for logistic regression implemntation on MNIST dataset.
+#this is for the implementation of linear regression on MNIST dataset
+
+
